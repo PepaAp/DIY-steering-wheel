@@ -20,6 +20,11 @@ Cílem je vytvořit funkční sestavu volantu a dvou pedálů (plyn/brzda), kter
 * **Ložiska:** (např. 608RS pro hřídel volantu)
 * **Pružiny:** Pro odpor pedálů
 
+## ⚡ Schéma zapojení
+![Schéma zapojení](images/curcuit.svg)
+
+Interaktivní návrh a editace schématu: [CircuitDesigner](https://app.cirkitdesigner.com/project/f1c80817-fc01-414b-a5b8-d68fa57e7eee)
+
 ## 🖨️ 3D Tisk & Filament
 Všechny mechanické části jsou navrženy pro 3D tisk.
 * **Složka se soubory:** `/stl`
